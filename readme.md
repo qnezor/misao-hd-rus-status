@@ -42,7 +42,7 @@ CommonEvent.dat 100%:
 | ✅ | epilogue.mps | 100% |
 | ✅ | facultyroom.mps | 100% |
 | ⏭️ | gallery.mps | нет текста для перевода |
-| ❌ | gymnasium.mps | 0% |
+| ✏️ | gymnasium.mps | 25% |
 | ⏭️ | haka.mps | нет текста для перевода |
 | ❌ | laboratory.mps | 0% |
 | ⏭️ | laboratory2.mps | нет текста для перевода |
