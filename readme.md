@@ -31,3 +31,25 @@
 ⏭️ classroom3-C2.mps      | нет текста для перевода
 
 ✅ computerroom.mps       | 100%
+
+✅ corridor_1F            | 100%
+
+⏭️ corridor_1F2           | нет текста для перевода
+
+⏭️ corridor_1F3           | нет текста для перевода
+
+⏭️ corridor_2F            | нет текста для перевода
+
+⏭️ corridor_2F2           | нет текста для перевода
+
+✅ corridor_2F3           | 100%
+
+✅ corridor_2F4_loop      | 100%
+
+⏭️ corridor_2F5           | нет текста для перевода
+
+✅ corridor_3F            | 100%
+
+✅ corridor_3F_evcp       | 100%
+
+✅ corridor_4F            | 100%
