@@ -57,3 +57,14 @@ CommonEvent.dat 100%:
 ✅ corridor_3F_evcp       | 100%
 
 ✅ corridor_4F            | 100%
+
+✅ courtyard              | 100%
+
+⏭️ deathcorridor          | нет текста для перевода
+
+✅ dollroom               | 100%
+
+✅ entrance               | 100%
+
+✅ epilogue               | 100%
+
