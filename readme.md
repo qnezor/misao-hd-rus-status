@@ -67,7 +67,7 @@ CommonEvent.dat 100%:
 | ❌ | prologue5.mps | 0% |
 | ❌ | prologue6.mps | 0% |
 | ❌ | prologue7.mps | 0% |
-| ✏️ | prologue8.mps | 20% |
+| ✅ | prologue8.mps | 100% |
 | ❌ | rooftop.mps | 0% |
 | ❌ | rooftop2.mps | 0% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
