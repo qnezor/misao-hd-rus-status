@@ -68,12 +68,12 @@ CommonEvent.dat 100%:
 | ❌ | prologue6.mps | 0% |
 | ❌ | prologue7.mps | 0% |
 | ✏️ | prologue8.mps | 20% |
-| ❌ | rooftop.mps | 0% |
+| ✅ | rooftop.mps | 100% |
 | ❌ | rooftop2.mps | 0% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
 | ❌ | scienceroom.mps | 0% |
 | ❌ | shined_classroom.mps | 0% |
-| ❌ | shined_schoolyard.mps | 0% |
+| 🗑️ | shined_schoolyard.mps | мусорный файл |
 | ❌ | shinend_backyard.mps | 0% |
 | ❌ | shinend_kudounoyami.mps | 0% |
 | ❌ | shinend_kuratahouse.mps | 0% |
@@ -87,8 +87,8 @@ CommonEvent.dat 100%:
 | ❌ | shinend_kurataroom2.mps | 0% |
 | ❌ | shinend_middleschool.mps | 0% |
 | ❌ | shinend_misaonoyami.mps | 0% |
-| ❌ | shinend_nekonohaka.mps | 0% |
-| ❌ | shinend_op .mps | 0% |
+| ✅ | shinend_nekonohaka.mps | 100% |
+| ⏭️ | shinend_op .mps | нет текста для перевода |
 | ❌ | shinend_op.mps | 0% |
 | ❌ | shinend_park.mps | 0% |
 | ❌ | shinend_seibetsu.mps | 0% |
