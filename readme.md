@@ -10,8 +10,6 @@
 | ✏️ | DataBase.dat | 70% |
 | ✅ | SysDatabase.dat | 100% |
 
-
-
 <hr>
 .mps файлы (карты) 
 
