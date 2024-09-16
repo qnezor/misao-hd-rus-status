@@ -60,14 +60,14 @@ CommonEvent.dat 100%:
 | ❌ | musicroom.mps | 0% |
 | ⏭️ | nursesroom.mps | нет текста для перевода |
 | ❌ | principaloffice.mps | 0% |
-| ✏️ | prologue.mps | 60% |
+| ✅ | prologue.mps | 100% |
 | ❌ | prologue2.mps.mps | 0% |
 | ❌ | prologue3.mps | 0% |
 | ❌ | prologue4.mps | 0% |
 | ❌ | prologue5.mps | 0% |
 | ❌ | prologue6.mps | 0% |
 | ❌ | prologue7.mps | 0% |
-| ✅ | prologue8.mps | 100% |
+| ✏️ | prologue8.mps | 20% |
 | ❌ | rooftop.mps | 0% |
 | ❌ | rooftop2.mps | 0% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
