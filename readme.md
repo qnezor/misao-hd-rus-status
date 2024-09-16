@@ -62,7 +62,7 @@ CommonEvent.dat 100%:
 | ❌ | principaloffice.mps | 0% |
 | ✅ | prologue.mps | 100% |
 | ✅ | prologue2.mps.mps | 100% |
-| ✏️ | prologue3.mps | 40% |
+| ✏️ | prologue3.mps | 70% |
 | ❌ | prologue4.mps | 0% |
 | ❌ | prologue5.mps | 0% |
 | ❌ | prologue6.mps | 0% |
