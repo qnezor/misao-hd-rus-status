@@ -44,7 +44,7 @@ CommonEvent.dat 100%:
 | ⏭️ | gallery.mps | нет текста для перевода |
 | ✅ | gymnasium.mps | 100% |
 | ⏭️ | haka.mps | нет текста для перевода |
-| ❌ | laboratory.mps | 0% |
+| ✅ | laboratory.mps | 100% |
 | ⏭️ | laboratory2.mps | нет текста для перевода |
 | ❌ | laboratory3.mps | 0% |
 | ⏭️ | landing.mps | нет текста для перевода |
