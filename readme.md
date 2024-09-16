@@ -61,7 +61,7 @@ CommonEvent.dat 100%:
 | ⏭️ | nursesroom.mps | нет текста для перевода |
 | ❌ | principaloffice.mps | 0% |
 | ✅ | prologue.mps | 100% |
-| ❌ | prologue2.mps.mps | 0% |
+| ✅ | prologue2.mps.mps | 100% |
 | ❌ | prologue3.mps | 0% |
 | ❌ | prologue4.mps | 0% |
 | ❌ | prologue5.mps | 0% |
@@ -71,5 +71,9 @@ CommonEvent.dat 100%:
 | ❌ | rooftop.mps | 0% |
 | ❌ | rooftop2.mps | 0% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
+| ❌ | scienceroom.mps | 0% |
 | -- | --- | -- |
+| ✅ | test.mps | 100% |
+| ⏭️ | title.mps | нет текста для перевода |
+| ❌ | toilet_f.mps | 0% |
 | ✏️ | toilet_m.mps | 54% |
