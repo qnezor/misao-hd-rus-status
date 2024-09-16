@@ -72,7 +72,29 @@ CommonEvent.dat 100%:
 | ❌ | rooftop2.mps | 0% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
 | ❌ | scienceroom.mps | 0% |
-| -- | --- | -- |
+| ❌ | shined_classroom.mps | 0% |
+| ❌ | shined_schoolyard.mps | 0% |
+| ❌ | shinend_backyard.mps | 0% |
+| ❌ | shinend_kudounoyami.mps | 0% |
+| ❌ | shinend_kuratahouse.mps | 0% |
+| ❌ | shinend_kuratahouse2.mps | 0% |
+| ❌ | shinend_kuratakaisou.mps | 0% |
+| ❌ | shinend_kuratakaisou2.mps | 0% |
+| ❌ | shinend_kuratakaisou3.mps | 0% |
+| ❌ | shinend_kuratakaisou4.mps | 0% |
+| ❌ | shinend_kuratanoyami.mps | 0% |
+| ❌ | shinend_kurataroom.mps | 0% |
+| ❌ | shinend_kurataroom2.mps | 0% |
+| ❌ | shinend_middleschool.mps | 0% |
+| ❌ | shinend_misaonoyami.mps | 0% |
+| ❌ | shinend_nekonohaka.mps | 0% |
+| ❌ | shinend_op .mps | 0% |
+| ❌ | shinend_op.mps | 0% |
+| ❌ | shinend_park.mps | 0% |
+| ❌ | shinend_seibetsu.mps | 0% |
+| ❌ | shinend_yaminoma.mps | 0% |
+| ❌ | studentcouncilroom.mps | 0% |
+| ❌ | studentcouncilroom_mae.mps | 0% |
 | ✅ | test.mps | 100% |
 | ⏭️ | title.mps | нет текста для перевода |
 | ❌ | toilet_f.mps | 0% |
