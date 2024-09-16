@@ -5,9 +5,9 @@
 | Статус | Файл | Процент готовности |
 | ------ | ----- | ------------------ |
 | ✅ | CommonEvent.dat | 100% |
-| ✏️ | CDataBase.mps | ??? |
-| ✏️ | DataBase.mps | ??? |
-| ✏️ | SysDatabase.mps | ??? |
+| ✏️ | CDataBase.dat | ??? |
+| ✏️ | DataBase.dat | ??? |
+| ✏️ | SysDatabase.dat | ??? |
 
 
 
