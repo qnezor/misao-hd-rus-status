@@ -105,4 +105,4 @@
 | ✅ | test.mps | 100% |
 | ⏭️ | title.mps | нет текста для перевода |
 | ❌ | toilet_f.mps | 0% |
-| ✏️ | toilet_m.mps | 45% |
+| ✅ | toilet_m.mps | 100% |
