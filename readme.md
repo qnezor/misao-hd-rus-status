@@ -55,7 +55,7 @@
 | ⏭️ | laboratory2.mps | нет текста для перевода |
 | ✅ | laboratory3.mps | 100% |
 | ⏭️ | landing.mps | нет текста для перевода |
-| ✏️ | library.mps | 40% |
+| ✅ | library.mps | 100% |
 | ❌ | libraryroom.mps | 0% |
 | ⏭️ | lockerroom.mps | нет текста для перевода |
 | ❌ | memory_2-A.mps | 0% |
