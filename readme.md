@@ -69,8 +69,8 @@
 | ❌ | principaloffice.mps | 0% |
 | ✅ | prologue.mps | 100% |
 | ✅ | prologue2.mps.mps | 100% |
-| ✏️ | prologue3.mps | 70% |
-| ❌ | prologue4.mps | 0% |
+| ✅ | prologue3.mps | 100% |
+| ✅ | prologue4.mps | 100% |
 | ❌ | prologue5.mps | 0% |
 | ❌ | prologue6.mps | 0% |
 | ❌ | prologue7.mps | 0% |
