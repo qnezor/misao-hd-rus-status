@@ -71,9 +71,9 @@
 | ✅ | prologue2.mps.mps | 100% |
 | ✅ | prologue3.mps | 100% |
 | ✅ | prologue4.mps | 100% |
-| ❌ | prologue5.mps | 0% |
-| ❌ | prologue6.mps | 0% |
-| ❌ | prologue7.mps | 0% |
+| ✅ | prologue5.mps | 100% |
+| ✅ | prologue6.mps | 100% |
+| ✅ | prologue7.mps | 100% |
 | ✏️ | prologue8.mps | 20% |
 | ✅ | rooftop.mps | 100% |
 | ❌ | rooftop2.mps | 0% |
