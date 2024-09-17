@@ -58,7 +58,7 @@
 | ✅ | library.mps | 100% |
 | ❌ | libraryroom.mps | 0% |
 | ⏭️ | lockerroom.mps | нет текста для перевода |
-| ❌ | memory_2-A.mps | 0% |
+| ✅ | memory_2-A.mps | 100% |
 | ❌ | memory_corridor.mps | 0% |
 | 🗑️ | memory_facultyroom .mps | мусорный файл |
 | ❌ | memory_facultyroom.mps | 0% |
@@ -105,4 +105,4 @@
 | ✅ | test.mps | 100% |
 | ⏭️ | title.mps | нет текста для перевода |
 | ❌ | toilet_f.mps | 0% |
-| ✏️ | toilet_m.mps | 54% |
+| ✏️ | toilet_m.mps | 45% |
