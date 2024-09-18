@@ -98,10 +98,10 @@
 | ⏭️ | shinend_op .mps | нет текста для перевода |
 | ❌ | shinend_op.mps | 0% |
 | ❌ | shinend_park.mps | 0% |
-| ❌ | shinend_seibetsu.mps | 0% |
+| ✅ | shinend_seibetsu.mps | 100% |
 | ❌ | shinend_yaminoma.mps | 0% |
 | ❌ | studentcouncilroom.mps | 0% |
-| ❌ | studentcouncilroom_mae.mps | 0% |
+| ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
 | ⏭️ | title.mps | нет текста для перевода |
 | ❌ | toilet_f.mps | 0% |
