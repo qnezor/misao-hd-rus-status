@@ -83,15 +83,15 @@
 | 🗑️ | shined_schoolyard.mps | мусорный файл |
 | ❌ | shinend_backyard.mps | 0% |
 | ❌ | shinend_kudounoyami.mps | 0% |
-| ❌ | shinend_kuratahouse.mps | 0% |
-| ❌ | shinend_kuratahouse2.mps | 0% |
+| ✅ | shinend_kuratahouse.mps | 100% |
+| ⏭️ | shinend_kuratahouse2.mps | нет текста для перевода |
 | ❌ | shinend_kuratakaisou.mps | 0% |
 | ❌ | shinend_kuratakaisou2.mps | 0% |
 | ❌ | shinend_kuratakaisou3.mps | 0% |
 | ❌ | shinend_kuratakaisou4.mps | 0% |
 | ❌ | shinend_kuratanoyami.mps | 0% |
 | ❌ | shinend_kurataroom.mps | 0% |
-| ❌ | shinend_kurataroom2.mps | 0% |
+| ✅ | shinend_kurataroom2.mps | 100% |
 | ❌ | shinend_middleschool.mps | 0% |
 | ❌ | shinend_misaonoyami.mps | 0% |
 | ✅ | shinend_nekonohaka.mps | 100% |
