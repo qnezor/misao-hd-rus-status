@@ -7,7 +7,7 @@
 | ------ | ----- | ------------------ |
 | ✅ | CommonEvent.dat | 100% |
 | ⏭️ | CDataBase.dat | нет текста для перевода |
-| ✏️ | DataBase.dat | 73% |
+| ✏️ | DataBase.dat | 75% |
 | ✅ | SysDatabase.dat | 100% |
 
 <hr>
@@ -104,5 +104,5 @@
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
 | ⏭️ | title.mps | нет текста для перевода |
-| ❌ | toilet_f.mps | 0% |
+| ✅ | toilet_f.mps | 100% |
 | ✅ | toilet_m.mps | 100% |
