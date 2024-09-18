@@ -43,7 +43,7 @@
 | ✅ | corridor_3F_evcp.mps | 100% |
 | ✅ | corridor_4F.mps | 100% |
 | ✅ | courtyard.mps | 100% | 
-| ⏭️ | deathcorridor | нет текста для перевода |
+| ⏭️ | deathcorridor.mps | нет текста для перевода |
 | ✅ | dollroom.mps | 100% |
 | ✅ | entrance.mps | 100% |
 | ✅ | epilogue.mps | 100% |
@@ -56,7 +56,7 @@
 | ✅ | laboratory3.mps | 100% |
 | ⏭️ | landing.mps | нет текста для перевода |
 | ✅ | library.mps | 100% |
-| ❌ | libraryroom.mps | 0% |
+| ✏️ | libraryroom.mps | 40% |
 | ⏭️ | lockerroom.mps | нет текста для перевода |
 | ✅ | memory_2-A.mps | 100% |
 | ❌ | memory_corridor.mps | 0% |
