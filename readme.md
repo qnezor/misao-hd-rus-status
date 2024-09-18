@@ -74,7 +74,7 @@
 | ✅ | prologue5.mps | 100% |
 | ✅ | prologue6.mps | 100% |
 | ✅ | prologue7.mps | 100% |
-| ✏️ | prologue8.mps | 20% |
+| ✅ | prologue8.mps | 100% |
 | ✅ | rooftop.mps | 100% |
 | ✅ | rooftop2.mps | 100% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
