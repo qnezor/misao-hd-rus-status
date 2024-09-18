@@ -76,7 +76,7 @@
 | ✅ | prologue7.mps | 100% |
 | ✏️ | prologue8.mps | 20% |
 | ✅ | rooftop.mps | 100% |
-| ❌ | rooftop2.mps | 0% |
+| ✅ | rooftop2.mps | 100% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
 | ❌ | scienceroom.mps | 0% |
 | ❌ | shined_classroom.mps | 0% |
