@@ -97,9 +97,9 @@
 | ✅ | shinend_nekonohaka.mps | 100% |
 | ⏭️ | shinend_op .mps | нет текста для перевода |
 | ❌ | shinend_op.mps | 0% |
-| ❌ | shinend_park.mps | 0% |
+| ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
-| ❌ | shinend_yaminoma.mps | 0% |
+| ✏️ | shinend_yaminoma.mps | 5% |
 | ✏️ | studentcouncilroom.mps | 20% |
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
