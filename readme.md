@@ -56,7 +56,7 @@
 | ✅ | laboratory3.mps | 100% |
 | ⏭️ | landing.mps | нет текста для перевода |
 | ✅ | library.mps | 100% |
-| ✏️ | libraryroom.mps | 40% |
+| ✏️ | libraryroom.mps | 70% |
 | ⏭️ | lockerroom.mps | нет текста для перевода |
 | ✅ | memory_2-A.mps | 100% |
 | ❌ | memory_corridor.mps | 0% |
@@ -66,7 +66,7 @@
 | ❌ | memory_toilet_m.mps | 0% |
 | ❌ | musicroom.mps | 0% |
 | ⏭️ | nursesroom.mps | нет текста для перевода |
-| ❌ | principaloffice.mps | 0% |
+| ✅ | principaloffice.mps | 100% |
 | ✅ | prologue.mps | 100% |
 | ✅ | prologue2.mps.mps | 100% |
 | ✅ | prologue3.mps | 100% |
