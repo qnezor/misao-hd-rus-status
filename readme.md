@@ -61,7 +61,7 @@
 | ✅ | memory_2-A.mps | 100% |
 | ✅ | memory_corridor.mps | 100% |
 | 🗑️ | memory_facultyroom .mps | мусорный файл |
-| ❌ | memory_facultyroom.mps | 0% |
+| ✏️ | memory_facultyroom.mps | 30% |
 | ✅ | memory_toilet_f.mps | 100% |
 | ❌ | memory_toilet_m.mps | 0% |
 | ✅ | musicroom.mps | 100% |
@@ -99,7 +99,7 @@
 | ✏️ | shinend_op.mps | 40% |
 | ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
-| ✏️ | shinend_yaminoma.mps | 5% |
+| ✏️ | shinend_yaminoma.mps | 30% |
 | ✅ | studentcouncilroom.mps | 100% |
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
