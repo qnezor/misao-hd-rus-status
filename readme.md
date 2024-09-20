@@ -59,12 +59,12 @@
 | ✅ | libraryroom.mps | 100% |
 | ⏭️ | lockerroom.mps | нет текста для перевода |
 | ✅ | memory_2-A.mps | 100% |
-| ❌ | memory_corridor.mps | 0% |
+| ✅ | memory_corridor.mps | 100% |
 | 🗑️ | memory_facultyroom .mps | мусорный файл |
 | ❌ | memory_facultyroom.mps | 0% |
 | ❌ | memory_toilet_f.mps | 0% |
 | ❌ | memory_toilet_m.mps | 0% |
-| ❌ | musicroom.mps | 0% |
+| ✅ | musicroom.mps | 100% |
 | ⏭️ | nursesroom.mps | нет текста для перевода |
 | ✅ | principaloffice.mps | 100% |
 | ✅ | prologue.mps | 100% |
