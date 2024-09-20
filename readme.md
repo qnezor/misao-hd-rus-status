@@ -62,7 +62,7 @@
 | ✅ | memory_corridor.mps | 100% |
 | 🗑️ | memory_facultyroom .mps | мусорный файл |
 | ❌ | memory_facultyroom.mps | 0% |
-| ✏️ | memory_toilet_f.mps | 40% |
+| ✅ | memory_toilet_f.mps | 100% |
 | ❌ | memory_toilet_m.mps | 0% |
 | ✅ | musicroom.mps | 100% |
 | ⏭️ | nursesroom.mps | нет текста для перевода |
