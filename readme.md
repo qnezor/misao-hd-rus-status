@@ -78,8 +78,8 @@
 | ✅ | rooftop.mps | 100% |
 | ✅ | rooftop2.mps | 100% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
-| ✏️ | scienceroom.mps | 40% |
-| ❌ | shined_classroom.mps | 0% |
+| ✅ | scienceroom.mps | 100% |
+| ✏️ | shined_classroom.mps | 20% |
 | 🗑️ | shined_schoolyard.mps | мусорный файл |
 | ❌ | shinend_backyard.mps | 0% |
 | ❌ | shinend_kudounoyami.mps | 0% |
