@@ -78,7 +78,7 @@
 | ✅ | rooftop.mps | 100% |
 | ✅ | rooftop2.mps | 100% |
 | ⏭️ | rooftop3.mps | нет текста для перевода |
-| ❌ | scienceroom.mps | 0% |
+| ✏️ | scienceroom.mps | 40% |
 | ❌ | shined_classroom.mps | 0% |
 | 🗑️ | shined_schoolyard.mps | мусорный файл |
 | ❌ | shinend_backyard.mps | 0% |
@@ -99,7 +99,7 @@
 | ✏️ | shinend_op.mps | 40% |
 | ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
-| ✏️ | shinend_yaminoma.mps | 30% |
+| ✏️ | shinend_yaminoma.mps | 45% |
 | ✅ | studentcouncilroom.mps | 100% |
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
