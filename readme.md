@@ -82,7 +82,7 @@
 | ✅ | shined_classroom.mps | 100% |
 | 🗑️ | shined_schoolyard.mps | мусорный файл |
 | ✅ | shinend_backyard.mps | 100% |
-| ✏️ | shinend_kudounoyami.mps | 50% |
+| ✅ | shinend_kudounoyami.mps | 100% |
 | ✅ | shinend_kuratahouse.mps | 100% |
 | ⏭️ | shinend_kuratahouse2.mps | нет текста для перевода |
 | ✅ | shinend_kuratakaisou.mps | 100% |
