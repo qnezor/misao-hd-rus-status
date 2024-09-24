@@ -92,7 +92,7 @@
 | ❌ | shinend_kuratanoyami.mps | 0% |
 | ✅ | shinend_kurataroom.mps | 100% |
 | ✅ | shinend_kurataroom2.mps | 100% |
-| ❌ | shinend_middleschool.mps | 0% |
+| ✅ | shinend_middleschool.mps | 100% |
 | ✅ | shinend_misaonoyami.mps | 100% |
 | ✅ | shinend_nekonohaka.mps | 100% |
 | ⏭️ | shinend_op .mps | нет текста для перевода |
