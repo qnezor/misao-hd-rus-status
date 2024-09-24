@@ -99,7 +99,7 @@
 | ✏️ | shinend_op.mps | 40% |
 | ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
-| ✏️ | shinend_yaminoma.mps | 45% |
+| ✏️ | shinend_yaminoma.mps | 75% |
 | ✅ | studentcouncilroom.mps | 100% |
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
