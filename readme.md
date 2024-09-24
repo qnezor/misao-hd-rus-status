@@ -63,7 +63,7 @@
 | 🗑️ | memory_facultyroom .mps | мусорный файл |
 | ✅ | memory_facultyroom.mps | 100% |
 | ✅ | memory_toilet_f.mps | 100% |
-| ❌ | memory_toilet_m.mps | 0% |
+| ✅ | memory_toilet_m.mps | 100% |
 | ✅ | musicroom.mps | 100% |
 | ⏭️ | nursesroom.mps | нет текста для перевода |
 | ✅ | principaloffice.mps | 100% |
@@ -90,10 +90,10 @@
 | ❌ | shinend_kuratakaisou3.mps | 0% |
 | ❌ | shinend_kuratakaisou4.mps | 0% |
 | ❌ | shinend_kuratanoyami.mps | 0% |
-| ❌ | shinend_kurataroom.mps | 0% |
+| ✅ | shinend_kurataroom.mps | 100% |
 | ✅ | shinend_kurataroom2.mps | 100% |
 | ❌ | shinend_middleschool.mps | 0% |
-| ❌ | shinend_misaonoyami.mps | 0% |
+| ✅ | shinend_misaonoyami.mps | 100% |
 | ✅ | shinend_nekonohaka.mps | 100% |
 | ⏭️ | shinend_op .mps | нет текста для перевода |
 | ✏️ | shinend_op.mps | 40% |
