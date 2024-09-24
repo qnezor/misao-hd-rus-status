@@ -89,7 +89,7 @@
 | ❌ | shinend_kuratakaisou2.mps | 0% |
 | ❌ | shinend_kuratakaisou3.mps | 0% |
 | ❌ | shinend_kuratakaisou4.mps | 0% |
-| ❌ | shinend_kuratanoyami.mps | 0% |
+| ✅ | shinend_kuratanoyami.mps | 100% |
 | ✅ | shinend_kurataroom.mps | 100% |
 | ✅ | shinend_kurataroom2.mps | 100% |
 | ✅ | shinend_middleschool.mps | 100% |
