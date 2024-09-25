@@ -1,6 +1,6 @@
 Дата релиза: до октября 2024г.
 
-текущий статус проекта: перевод текста
+текущий статус проекта: тестирование русификатора
 
 <hr>
 .dat файлы
@@ -101,7 +101,7 @@
 | ✅ | shinend_op.mps | 100% |
 | ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
-| ✏️ | shinend_yaminoma.mps | 80% |
+| ✅ | shinend_yaminoma.mps | 100% |
 | ✅ | studentcouncilroom.mps | 100% |
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
