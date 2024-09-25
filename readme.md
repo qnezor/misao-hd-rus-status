@@ -90,7 +90,7 @@
 | ✅ | shinend_kuratakaisou.mps | 100% |
 | ✅ | shinend_kuratakaisou2.mps | 100% |
 | ✅ | shinend_kuratakaisou3.mps | 100% |
-| ❌ | shinend_kuratakaisou4.mps | 0% |
+| ✅ | shinend_kuratakaisou4.mps | 0% |
 | ✅ | shinend_kuratanoyami.mps | 100% |
 | ✅ | shinend_kurataroom.mps | 100% |
 | ✅ | shinend_kurataroom2.mps | 100% |
@@ -101,7 +101,7 @@
 | ✏️ | shinend_op.mps | 40% |
 | ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
-| ✏️ | shinend_yaminoma.mps | 75% |
+| ✏️ | shinend_yaminoma.mps | 80% |
 | ✅ | studentcouncilroom.mps | 100% |
 | ✅ | studentcouncilroom_mae.mps | 100% |
 | ✅ | test.mps | 100% |
