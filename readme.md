@@ -86,8 +86,8 @@
 | ✅ | shinend_kuratahouse.mps | 100% |
 | ⏭️ | shinend_kuratahouse2.mps | нет текста для перевода |
 | ✅ | shinend_kuratakaisou.mps | 100% |
-| ❌ | shinend_kuratakaisou2.mps | 0% |
-| ❌ | shinend_kuratakaisou3.mps | 0% |
+| ✅ | shinend_kuratakaisou2.mps | 100% |
+| ✅ | shinend_kuratakaisou3.mps | 100% |
 | ❌ | shinend_kuratakaisou4.mps | 0% |
 | ✅ | shinend_kuratanoyami.mps | 100% |
 | ✅ | shinend_kurataroom.mps | 100% |
