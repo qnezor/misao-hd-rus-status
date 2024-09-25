@@ -98,7 +98,7 @@
 | ✅ | shinend_misaonoyami.mps | 100% |
 | ✅ | shinend_nekonohaka.mps | 100% |
 | ⏭️ | shinend_op .mps | нет текста для перевода |
-| ✏️ | shinend_op.mps | 40% |
+| ✅ | shinend_op.mps | 100% |
 | ✅ | shinend_park.mps | 100% |
 | ✅ | shinend_seibetsu.mps | 100% |
 | ✏️ | shinend_yaminoma.mps | 80% |
