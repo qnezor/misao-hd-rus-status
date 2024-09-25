@@ -9,7 +9,7 @@
 | ------ | ----- | ------------------ |
 | ✅ | CommonEvent.dat | 100% |
 | ⏭️ | CDataBase.dat | нет текста для перевода |
-| ✏️ | DataBase.dat | 75% |
+| ✅ | DataBase.dat | 100% |
 | ✅ | SysDatabase.dat | 100% |
 
 <hr>
